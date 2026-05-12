@@ -35,7 +35,7 @@ curl -fsSL https://raw.githubusercontent.com/mawenjun/macdisk-analyzer/main/scri
 
 ```bash
 # 克隆仓库
-git clone https://github.com/mawenjun/macdisk-analyzer.git
+git clone https://github.com/duicym/macdisk-analyzer.git
 cd macdisk-analyzer
 
 # 运行分析
@@ -157,5 +157,5 @@ MIT License - 可以自由使用、修改和分发
 
 ## 📮 联系方式
 
-- GitHub: [mawenjun/macdisk-analyzer](https://github.com/mawenjun/macdisk-analyzer)
+- GitHub: [duicym/macdisk-analyzer](https://github.com/duicym/macdisk-analyzer)
 - Blog: [技术博客](https://example.com)
