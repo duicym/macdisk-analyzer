@@ -158,4 +158,4 @@ MIT License - 可以自由使用、修改和分发
 ## 📮 联系方式
 
 - GitHub: [duicym/macdisk-analyzer](https://github.com/duicym/macdisk-analyzer)
-- Blog: [技术博客](https://example.com)
+- Blog: [技术博客](https://blog.csdn.net/mwj_2014/article/details/161040899)
